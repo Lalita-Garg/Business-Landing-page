@@ -13,7 +13,7 @@ I created this beautiful  Responsive website by using  HTML and  CSS.
 - Responsive Design
 
 # Deployment Link
-
+  [Live Link](https://business-landing-12.netlify.app/)
 ## Preview |
 ***
 ## Desktop view
