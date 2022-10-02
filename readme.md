@@ -13,9 +13,20 @@ I created this beautiful  Responsive website by using  HTML and  CSS.
 - Responsive Design
 
 # Deployment Link
-
+  [Live Link](https://business-landing-12.netlify.app/)
 ## Preview |
 ***
+## Desktop view
+https://user-images.githubusercontent.com/111582082/193469499-ad6dba9b-1930-4bbe-8949-47fdfb86c354.mp4
+
+## Tablet View
+
+https://user-images.githubusercontent.com/111582082/193469535-0d907c8a-3f65-4c80-8220-5a36ff356816.mp4
+
+## Mobile View
+
+https://user-images.githubusercontent.com/111582082/193469579-d9f0bfc5-a7e0-429c-b8a8-db446940aab8.mp4
+
 
 
 ## Technologies Used 
