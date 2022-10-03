@@ -325,6 +325,9 @@
       .section1-right {
         width: 80%;
       }
+      .section1-right button{
+        margin-top: 20px;
+      }
       
       .section1-right h1 {
         font-size: 30px;
@@ -347,5 +350,16 @@
 
     .section1-right button {
         position: static;
+    }
+    .counts h1 {
+        font-size: 24px;
+    }
+    .section-2-heading {
+        font-size: 30px;
+        width: 300px;
+        margin-bottom: 20px;
+    }
+    .card-img img {
+    display: none;
     }
 } 
