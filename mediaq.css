@@ -314,7 +314,7 @@
     }
   
 }
-@media screen and (max-width:400px) {
+ @media screen and (max-width:400px) {
     .section1-left img {
        display: none;
     }
@@ -348,4 +348,4 @@
     .section1-right button {
         position: static;
     }
-}
+} 
