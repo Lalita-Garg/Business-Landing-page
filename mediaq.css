@@ -362,4 +362,9 @@
     .card-img img {
     display: none;
     }
+    .section1-right input {
+        width: 200px;
+        height: 30px;
+        background-position: 20px 8px;
+    }
 } 
